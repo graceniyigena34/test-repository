@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(12, 12, 85);
+    text-align: center;
+    margin:50px;
+    height: 100vh;
+}
+form{
+    
+    height:100px;
+    margin: 50px;
+   
+
+}
+input{
+    text-align: center;
+    margin:10px;
+    border: 1px solid red;
+    border-radius: 10px;
+    outline:none;
+    width: 400px;
+    height:50px;
+    
+    }
+    
+textarea{
+    height:140px;
+    outline:none;
+    border: 1px solid red;
+    width: 400px;
+    border-radius: 10px;
+
+}
+    
+button{
+    
+    background-color: black;
+    color:white;
+    outline:none;
+    border:none;
+    height:50px;
+    width: 400px;
+    margin-top: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+
+}
+button:hover{
+    background-color: rgb(118, 234, 72);
+    color:black;
+}
